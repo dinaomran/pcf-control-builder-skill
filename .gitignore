@@ -1,0 +1,30 @@
+# Editor
+.vscode/
+
+# Dependencies / build output
+node_modules/
+bin/
+obj/
+dist/
+out/
+coverage/
+
+# Packages / archives
+*.zip
+*.cab
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.key
+*.cer
+*.crt
+
+# Claude Code local workspace (plans, local settings) - not part of the published skill/plugin
+.claude/

@@ -1,0 +1,14 @@
+{
+  "name": "pcf-tools",
+  "owner": {
+    "name": "Dina Omran"
+  },
+  "plugins": [
+    {
+      "name": "pcf-control-builder",
+      "source": "./",
+      "description": "Build, modify, troubleshoot, package, and deploy Power Apps Component Framework (PCF) controls for Dataverse.",
+      "version": "3.1.0"
+    }
+  ]
+}

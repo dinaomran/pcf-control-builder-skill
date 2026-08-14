@@ -1,0 +1,20 @@
+{
+  "name": "pcf-control-builder",
+  "displayName": "PCF Control Builder",
+  "version": "3.1.0",
+  "description": "Build, modify, troubleshoot, package, and deploy Power Apps Component Framework (PCF) controls for Dataverse. A staged workflow with one-time React-design and manifest approval, plus deployment approval gates, to prevent accidental Power Platform environment changes.",
+  "author": {
+    "name": "Dina Omran"
+  },
+  "homepage": "https://github.com/dinaomran/pcf-control-builder-skill#readme",
+  "repository": "https://github.com/dinaomran/pcf-control-builder-skill",
+  "license": "MIT",
+  "keywords": [
+    "power-apps",
+    "pcf",
+    "dataverse",
+    "power-platform",
+    "component-framework",
+    "react"
+  ]
+}
